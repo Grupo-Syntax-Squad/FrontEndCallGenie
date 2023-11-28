@@ -55,8 +55,7 @@ export default function FAQ() {
             <h2>
               Bem-vindo(a) ao FAQ! Essa página é totalmente dedicada a tirar
               dúvidas e ajudar o usuário a ter uma melhor experiência em nosso
-              sistema! Acesse o vídeo tutorial para saber como utilizar o sistema
-              da CallGenie clicando no link abaixo: https;//youtube.com/EXEMPLO
+              sistema!
             </h2>
             <div className={HomePage.faqcontainer}>{tabela}</div>
           </div>
